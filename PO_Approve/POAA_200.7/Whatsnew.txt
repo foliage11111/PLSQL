@@ -1,0 +1,9 @@
+New in release 200.7:
+
+ 1.  Included changes for framework 3.0.27.
+ 2.  Added new WF signatures for usage in the automation.
+ 3.  Removed the mandatory "From date" when running in Single mode (when running from the wrapper script).
+ 4.  Added new signatures to simulate the Test Workbench in the AME Setup section.
+ 5.  Added new checks related to approvals and AME issues (Notes: 1905401.1, 984142.1, 1268145.1, 1277855.1, 1288874.1).
+ 6.  Fixed issue that occured under Approving Employee when Position ID was empty.
+ 
